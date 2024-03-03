@@ -1,5 +1,5 @@
-# Real-Estate-Analysis with Machine Learning
-The goal of the project was to leverage data science techniques to provide insights and predictions in the real estate domain. This involved several key objectives:
+# Real Estate Price Prediction with Machine Learning
+The goal of the project was to leverage data science techniques to provide insights and predictions in the real estate domain in Gurgaon, Delhi. This involved several key objectives:
 
 1. **Data Collection**: Scraping real estate data from various property listing websites to ensure a diverse dataset that encompasses different types of properties, locations, and features.
 
